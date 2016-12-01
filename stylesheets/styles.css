@@ -3,7 +3,10 @@
 .title {
 	margin: 30px auto auto 60px;
 }
-
+.item {
+	margin:  40px auto auto 60px;
+	font-size: 26px;
+}
 a {
 	color: #CCC;
 	font-size: 35px;
