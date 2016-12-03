@@ -1,15 +1,11 @@
-@charset "utf-8";
-
 .title {
 	margin: 30px auto auto 60px;
 }
-#item {
-	margin:  40px auto auto 60px;
-}
+
 a {
 	color: #CCC;
 	font-size: 35px;
-	font-family: Verdana, Geneva, sans-serif, Microsoft YaHei;
+	font-family: Verdana, Geneva, sans-serif,Microsoft YaHei;
 }
 a:link {
 	text-decoration: none;
@@ -24,6 +20,7 @@ a:hover {
 a:active {
 	color: #333;
 }
-#item.a {
-	font-size: 15px;
+
+	/* CSS Document */
+
 }/* CSS Document */
