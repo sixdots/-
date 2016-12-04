@@ -1,14 +1,12 @@
 @charset "utf-8";
 
-.title {
+.title a {
 	margin: 30px auto auto 60px;
-}
-
-a {
 	color: #CCC;
 	font-size: 35px;
 	font-family: Verdana, Geneva, sans-serif,Microsoft YaHei;
 }
+
 a:link {
 	text-decoration: none;
 }
