@@ -1,6 +1,8 @@
 @charset "utf-8";
-p a { font-size: 20px;
+.item p {
+	font-size: 20px;
 }
+
 }
 .title a {
 	margin: 30px auto auto 60px;
