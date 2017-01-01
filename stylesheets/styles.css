@@ -1,7 +1,7 @@
 @charset "utf-8";
 body {
 	background-image: url(https://sixdots.github.io/0/bg-1.jpg);
-	background-repeat: repeat-y;
+	background-repeat: no-repeat;
 }
 	
 .title a {
