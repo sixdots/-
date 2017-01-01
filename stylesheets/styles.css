@@ -1,5 +1,9 @@
 @charset "utf-8";
+body {
+	background-image: url(https://sixdots.github.io/0/images/bg-1.jpg);
+	background-repeat: repeat-y;
 }
+	
 .title a {
 	margin: 30px auto auto 60px;
 	color: #CCC;
