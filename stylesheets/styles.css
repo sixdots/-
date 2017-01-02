@@ -34,6 +34,13 @@ a:active {
         top: 100px;
 }          /* 左矩形 */
 
+#box_right {
+	font-size: 36px;
+	position: absolute;
+	left: 40px;
+	top: 60px;
+}
+
 #yes {
 	font-size: 30px;
 	color: #fff;
