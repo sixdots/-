@@ -1,7 +1,7 @@
 
 @charset "utf-8";
 body {
-	background-image:url(../200.gif);
+	background-image: url(https://sixdots.github.io/0/bg-1.jpg);
 	font-family:Microsoft YaHei;
 }/* CSS Document */
 
@@ -20,21 +20,27 @@ a:hover {
 a:active {
 	text-decoration:none;
 	color:#FF0;
-	}	    /* 激活 */
-#box_left {
+	}	    /* 正ocument */
+#box {
 	text-align: center;
 	font-size: 14px;
 	line-height: 50px;
 	width: 200px;
     height: 300px;
-    background: #F06;
+    background: blue;
 	position: absolute;
-    left: 800px;
+    left: 200px;
     top: 100px;
-}          /* 左矩形 */
-#box_right {
-	font-size: 36px;
-	position: absolute;
-	left: 40px;
-	top: 60px;
+}          /* 矩形background-image */
+#circle {
+   text-align: center;
+   font-size: 14px;
+   line-height: 50px;
+   width: 200px;
+   height: 300px;
+   background: black;
+   line-height:60px;
+   position: absolute;
+   left: 900px;
+   top: 100px;
 }
