@@ -21,24 +21,20 @@ a:active {
 	text-decoration:none;
 	color:#FF0;
 	}	    /* 激活 */
+
 #box_left {
 	text-align: center;
 	font-size: 14px;
 	line-height: 30px;
 	width: 200px;
-    height: 300px;
-    background: #F06;
+        height: 500px;
+        background: #F06;
 	position: absolute;
-    left: 800px;
-    top: 100px;
+        left: 800px;
+        top: 100px;
 }          /* 左矩形 */
-#box_right {
-	font-size: 36px;
-	position: absolute;
-	left: 40px;
-	top: 60px;
-}
-#p {
+
+#yes {
 	font-size: 30px;
 	color: #fff;
 	text-align: center;
