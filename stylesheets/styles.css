@@ -30,8 +30,8 @@ a:active {
         height: 500px;
         background: #F06;
 	position: absolute;
-        right: 100px;
-        top: 60px;
+        right: 20%;
+        top: 20%;
 }          /* 左矩形 */
 
 #box_right {
