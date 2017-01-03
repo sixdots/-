@@ -37,8 +37,8 @@ a:active {
 #box_right {
 	font-size: 36px;
 	position: absolute;
-	left: 40px;
-	top: 60px;
+	left: 15%;
+	top: 10%;
 }
 
 #yes {
