@@ -1,8 +1,8 @@
 
 @charset "utf-8";
 body {
-	background-image:url(http://sixdots.github.io/0/200.gif);
-	font-family:Microsoft YaHei;
+	background-image: url(http://sixdots.github.io/0/200.gif);
+	font-family: Microsoft YaHei,PingFangSC-Regular;
 }/* CSS Document */
 
 a:link {
